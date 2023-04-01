@@ -4,12 +4,30 @@
 1)
 блоки head body footer
 элемент head__eyes head__nose body__arm
-<<<<<<< HEAD
+
 модификатор head__eyes--red head__nose--big body__arm--crooked finger
-=======
+
 модификатор head__eyes--red head__nose--big body__arm--crooked finger
 
 2)
+![Alt text](g.img/1.png)
+div.head>img.head__logo>p.head__name>a.head__link*4
+
+![Alt text](g.img/2.png)
+
+div.div>(img.div__svg>h2.div__text>p.div__subtext)*3
 
 
->>>>>>> ed293d897f8a373cd9f071346c537638d1739947
+![Alt text](g.img/3.png)
+
+div.section>p.section__subtitle>h3.section__text>form.form>label.form__label>input.form__input>button.form__button
+
+![Alt text](g.img/4-5.png)
+div.card>img.card__img>h2.card__slogan>p.card__text>a.card__link
+
+div.card--revers>img.card__img--custom>h2.card__slogan>p.card__text--bold>a.card__link
+![Alt text](g.img/5-4.png)
+
+
+3)
+
