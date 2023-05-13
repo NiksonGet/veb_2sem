@@ -15,7 +15,7 @@ header.header>a.header__logo>img.header__img+a.header__link+nav.header__navigati
 
 ![Alt text](g.img/2.png)
 
-ul.card>(li.card__list>img.card__img+p.card__text>p.card__content)*3
+ul.card>(li.card__list>img.card__img+p.card__text+p.card__content)*3
 
 
 ![Alt text](g.img/3.png)
