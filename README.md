@@ -22,10 +22,14 @@ ul.card>(li.card__list>img.card__img+p.card__text+p.card__content)*3
 
 div.mail>p.mail__text+h3.mail__header+form.form>label.form__label>input.form__email+button.form__button
 
-![Alt text](g.img/4-5.png)
-div.card>img.card__img>h2.card__slogan>p.card__text>a.card__link
 
-div.card--revers>img.card__img--custom>h2.card__slogan>p.card__text--bold>a.card__link
+
+![Alt text](g.img/4-5.png)
+![Alt text](g.img/5-4.png)
+
+div.card>img.card__img+div.info>h2.info__text+p.info__content+a.info__link
+
+div.card-reserved>img.card__img-cut+div.info>h2.info__text+p.info__content+a.info__link
 ![Alt text](g.img/5-4.png)
 
 
