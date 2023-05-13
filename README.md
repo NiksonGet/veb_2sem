@@ -20,7 +20,7 @@ ul.card>(li.card__list>img.card__img+p.card__text+p.card__content)*3
 
 ![Alt text](g.img/3.png)
 
-div.section>p.section__subtitle>h3.section__text>form.form>label.form__label>input.form__input>button.form__button
+div.mail>p.mail__text+h3.mail__header+form.form>label.form__label>input.form__email+button.form__button
 
 ![Alt text](g.img/4-5.png)
 div.card>img.card__img>h2.card__slogan>p.card__text>a.card__link
@@ -29,5 +29,5 @@ div.card--revers>img.card__img--custom>h2.card__slogan>p.card__text--bold>a.card
 ![Alt text](g.img/5-4.png)
 
 
-3)
+
 
