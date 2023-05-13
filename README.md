@@ -2,12 +2,9 @@
 
 
 1)
-блоки head body footer
-элемент head__eyes head__nose body__arm
-
-модификатор head__eyes--red head__nose--big body__arm--crooked finger
-
-модификатор head__eyes--red head__nose--big body__arm--crooked finger
+блоки: #.human>#.head>#.body
+элементы #.head>#.head__eye + #.head__nose
+модификаторы #.body>#.body__arm-right.arm-right + #.body__arm-left.arm-left
 
 2)
 ![Alt text](g.img/1.png)
@@ -22,15 +19,13 @@ ul.card>(li.card__list>img.card__img+p.card__text+p.card__content)*3
 
 div.mail>p.mail__text+h3.mail__header+form.form>label.form__label>input.form__email+button.form__button
 
-
-
-![Alt text](g.img/4-5.png)
+3)
 ![Alt text](g.img/5-4.png)
 
 div.card>img.card__img+div.info>h2.info__text+p.info__content+a.info__link
 
 div.card-reserved>img.card__img-cut+div.info>h2.info__text+p.info__content+a.info__link
-![Alt text](g.img/5-4.png)
+![Alt text](g.img/4-5.png)
 
 
 
