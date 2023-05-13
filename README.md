@@ -11,7 +11,7 @@
 
 2)
 ![Alt text](g.img/1.png)
-div.head>img.head__logo>p.head__name>a.head__link*4
+header.header>a.header__logo>img.header__img+a.header__link+nav.header__navigation>ul.header__navigation-list>(li.header__navigation-item>a.header__navigation-link)*4
 
 ![Alt text](g.img/2.png)
 
